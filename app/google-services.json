@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939441079574",
+    "project_id": "auth-a65a3",
+    "storage_bucket": "auth-a65a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939441079574:android:9cfb0648878d3bb902fc37",
+        "android_client_info": {
+          "package_name": "com.example.appll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zaN_-VTStoiG0L2SGg6gDUVyXDOeMAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
